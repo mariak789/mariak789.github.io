@@ -3,7 +3,7 @@ body.landing {
     padding: 0;
     font-family: 'Cormorant Garamond', serif;
     color: #5C4033;
-    background-image: url('/static/landing/images/paper.jpg');
+    background-image: url('/images/paper.jpg');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
